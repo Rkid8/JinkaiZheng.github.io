@@ -10,7 +10,7 @@ I am currently working as an intern in at Computer Vision and Multimedia Lab of 
 ### Recent News
 
 - May, 2021, our paper on IEEE ISCAS 2021 was selected as MSA-TC “**Best Paper Award - Honorable Mention**”.
-- January, 2021, one paper on gait recognition was accepted as a lecture (oral) presentation by **IEEE ISCAS 2021**.
+- January, 2021, our paper on gait recognition was accepted as a lecture (oral) presentation by **IEEE ISCAS 2021**.
 - August, 2020, we got the **fourth place** in Visual Domain Adaptation Challenge (VisDA-2020).
 - Octobor, 2020, our paper on ACM MM 2020 was selected as **Oral**
 
