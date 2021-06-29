@@ -1,12 +1,12 @@
 ## Welcome to JinkaiZhneg's Homepage
 
-You can use the [editor on GitHub](https://github.com/JinkaiZheng/JinkaiZheng.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- E-mail: zhengjinkai3@hdu.edu.cn
+- Github: JinkaiZheng
 
 ### About me
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I am currently working as an intern in at Computer Vision and Multimedia Lab of JD AI Research working with Dr. [Xinchen Liu](https://xinchenliu.com/), Dr. [Wu Liu](https://liuwu.weebly.com/) and Dr. [Tao Mei](https://taomei.me/). And I currently working toward the Ph.D. degree at the Intelligent Information Processing Laboratory ([IIPL](http://iipl.net.cn/)), Hangzhou Dianzi University, Zhejiang, China. My supervisor is prof. [Jiyong Zhang]() and Prof. [Chenggang Yan](). My research interests include gait/vehicle/person re-identification and computer vision.
+ 
 
 ```markdown
 Syntax highlighted code block
