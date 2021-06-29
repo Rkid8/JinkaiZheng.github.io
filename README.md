@@ -5,7 +5,7 @@
 
 ### About me
 
-I am currently working as an intern in at Computer Vision and Multimedia Lab of JD AI Research working with Dr. [Xinchen Liu](https://xinchenliu.com/), Dr. [Wu Liu](https://liuwu.weebly.com/) and Dr. [Tao Mei](https://taomei.me/). And I currently working toward the Ph.D. degree at the Intelligent Information Processing Laboratory ([IIPL](http://iipl.net.cn/)), Hangzhou Dianzi University, Zhejiang, China. My supervisor is prof. [Jiyong Zhang]() and Prof. [Chenggang Yan](). My research interests include gait/vehicle/person re-identification and computer vision.
+I am currently working as an intern in at Computer Vision and Multimedia Lab of JD AI Research working with Dr. [Xinchen Liu](https://xinchenliu.com/), Dr. [Wu Liu](https://liuwu.weebly.com/) and Dr. [Tao Mei](https://taomei.me/). And I currently working toward the Ph.D. degree at the Intelligent Information Processing Laboratory ([IIPL](http://iipl.net.cn/)), Hangzhou Dianzi University, Zhejiang, China. My supervisors are prof. [Jiyong Zhang]() and Prof. [Chenggang Yan](). My research interests include gait/vehicle/person re-identification and computer vision.
  
 
 ```markdown
